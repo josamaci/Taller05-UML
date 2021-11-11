@@ -14,4 +14,5 @@ import java.time.LocalDateTime;
  */
 public class Receta {
     protected LocalDateTime fecha;
+    public java.util.ArrayList<Medicamento> medicamentos = new java.util.ArrayList<>();
 }

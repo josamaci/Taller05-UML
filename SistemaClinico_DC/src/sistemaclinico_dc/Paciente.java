@@ -15,4 +15,10 @@ public class Paciente extends Persona{
     public boolean solicitarCita(){
         return true;
     }
+
+    public Paciente() {
+        HistoriaClinica hc = new HistoriaClinica();
+        Receta rc = new Receta();
+    }
+    
 }
