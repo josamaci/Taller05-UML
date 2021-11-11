@@ -9,7 +9,11 @@ package sistemaclinico_dc;
  *
  * @author JMaci
  */
-public class AreaMedica {
-    protected String especialidad;
-    protected float costo;
+public class Secretaria extends Persona{
+    public void verificarCita(){
+    
+    }
+    public void agendarCita(){
+    
+    }
 }
