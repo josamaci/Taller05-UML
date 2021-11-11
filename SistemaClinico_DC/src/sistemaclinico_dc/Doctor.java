@@ -9,6 +9,23 @@ package sistemaclinico_dc;
  *
  * @author JMaci
  */
-public class Doctor {
+public class Doctor extends Persona{
+    protected int regDoctor;
+    protected String especialidad;
     
+    public void recetar(){
+
+    }
+    
+    public void agregarPlanNut(){
+    
+    }
+    
+    public void imprimirReceta(){
+    
+    } 
+    
+    public void registrarSecretaria(){
+    
+    }
 }

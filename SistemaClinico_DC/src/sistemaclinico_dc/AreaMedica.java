@@ -10,5 +10,6 @@ package sistemaclinico_dc;
  * @author JMaci
  */
 public class AreaMedica {
-    
+    protected String especialidad;
+    protected float costo;
 }
