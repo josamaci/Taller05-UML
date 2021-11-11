@@ -10,5 +10,5 @@ package sistemaclinico_dc;
  * @author JMaci
  */
 public interface Pago {
-    
+    public boolean realizarPago(float monto);
 }

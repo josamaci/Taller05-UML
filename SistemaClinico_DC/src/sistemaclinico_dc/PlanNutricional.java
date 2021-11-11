@@ -11,5 +11,6 @@ package sistemaclinico_dc;
  * @author JMaci
  */
 public class PlanNutricional {
-    
+    protected String descripcion;
+  
 }
