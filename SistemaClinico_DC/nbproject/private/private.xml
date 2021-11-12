@@ -3,7 +3,21 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/Paciente.java</file>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/PagoEfectivo.java</file>
             <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/SistemaClinico_DC.java</file>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/Persona.java</file>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/Doctor.java</file>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/PagoPayPal.java</file>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/Secretaria.java</file>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/HistoriaClinica.java</file>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/AreaMedica.java</file>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/Receta.java</file>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/Cita.java</file>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/PlanNutricional.java</file>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/Administrador.java</file>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/Medicamento.java</file>
+            <file>file:/home/elementary/GitHub/Taller05-UML/SistemaClinico_DC/src/sistemaclinico_dc/PagoTarjeta.java</file>
         </group>
     </open-files>
 </project-private>

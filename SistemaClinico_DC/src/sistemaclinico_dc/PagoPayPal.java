@@ -10,4 +10,21 @@ public class PagoPayPal implements Pago {
     public boolean realizarPago(float monto) {
         throw new UnsupportedOperationException("Not supported yet.");
     }
+
+    public float getMonto() {
+        return monto;
+    }
+
+    public void setMonto(float monto) {
+        this.monto = monto;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+    
 }
