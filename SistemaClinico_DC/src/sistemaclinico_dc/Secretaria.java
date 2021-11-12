@@ -5,6 +5,8 @@
  */
 package sistemaclinico_dc;
 
+import java.time.LocalDateTime;
+
 /**
  *
  * @author JMaci
@@ -13,7 +15,7 @@ public class Secretaria extends Persona{
     public void verificarCita(){
     
     }
-    public void agendarCita(){
-    
+    public void agendarCita(Cita cita){
+        
     }
 }

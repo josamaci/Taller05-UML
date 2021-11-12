@@ -12,6 +12,7 @@ package sistemaclinico_dc;
 public class Doctor extends Persona{
     protected int regDoctor;
     protected String especialidad;
+    protected Secretaria secretaria;
     
     public void recetar(){
 
@@ -25,7 +26,7 @@ public class Doctor extends Persona{
     
     } 
     
-    public void registrarSecretaria(){
-    
+    public void registrarSecretaria(Secretaria s){
+        secretaria = s;
     }
 }
